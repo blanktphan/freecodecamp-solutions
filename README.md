@@ -1,10 +1,10 @@
-# FreeCodeCamp Soulutions
+# 📚 freeCodeCamp Soulutions
 
-![FreeCodeCamp logo](./image/freecodecamp-logo.png)
+![freeCodeCamp logo](./image/freecodecamp-logo.png)
 
 ## 📗 **Introduction**
 
-This repository is my **personal space** for storing and collecting various projects that I've practiced and built while learning through the [**FreeCodeCamp**](https://www.freecodecamp.org/learn) platform. Its primary goal is to **track my development**, **showcase my skills**, and **share my unique problem-solving approaches**. Please note, this repository does **NOT** contain *all content* from [FreeCodeCamp](https://www.freecodecamp.org/learn).
+This repository is my **personal space** for storing and collecting various projects that I've practiced and built while learning through the [**freeCodeCamp**](https://www.freecodecamp.org/learn) platform. Its primary goal is to **track my development**, **showcase my skills**, and **share my unique problem-solving approaches**. Please note, this repository does **NOT** contain *all content* from [freeCodeCamp](https://www.freecodecamp.org/learn).
 
 ### 🎯 **Purpose & Goals**
 This repository is designed to help me:
@@ -28,7 +28,7 @@ Browse the [**Table of Contents**](#-table-of-contents) to find **categories**.
 
 Each entry provides **essential information**:
 
-* **Project Name** — A *direct link* to the project on [**FreeCodeCamp**](https://www.freecodecamp.org/learn).
+* **Project Name** — A *direct link* to the project on [**freeCodeCamp**](https://www.freecodecamp.org/learn).
 * **Description** — A *brief summary* of what you'll find in that project.
 * **Focus Point** — The main *programming languages*, *tools*, or **key concepts** reinforced by the project.
 * **Directory Link** — Click "**Open**" to navigate directly to the project's *directory*, which contains the code and related files.
@@ -52,7 +52,7 @@ This Table of Contents primarily covers the **Coursework**, **Interview Preparat
 * 📁 **Professional Certifications**
 * 📁 **Recommended Curriculum**
 
-> **Note:** This repository reflects the specific learning paths and projects I've completed through **[FreeCodeCamp](https://www.freecodecamp.org/learn)**. The platform offers many additional courses and certifications beyond what's currently documented here.
+> **Note:** This repository reflects the specific learning paths and projects I've completed through **[freeCodeCamp](https://www.freecodecamp.org/learn)**. The platform offers many additional courses and certifications beyond what's currently documented here.
 
 ---
 

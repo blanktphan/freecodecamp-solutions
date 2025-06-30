@@ -11,6 +11,6 @@ You can [**click here**](./coursework/javaScript-algorithms-and-data-structures/
 
 ---
 
-### 🙏 **Thank You, [FreeCodeCamp](https://www.freecodecamp.org/learn)**
+### 🙏 **Thank You, [freeCodeCamp](https://www.freecodecamp.org/learn)**
 
-I want to express my sincere gratitude to **[FreeCodeCamp](https://www.freecodecamp.org/learn)** for their incredible learning resources, high-quality curriculum, and the opportunity to enhance my coding skills. The knowledge and experience gained from **[FreeCodeCamp](https://www.freecodecamp.org/learn)** have significantly contributed to creating these projects and developing my abilities.
+I want to express my sincere gratitude to **[freeCodeCamp](https://www.freecodecamp.org/learn)** for their incredible learning resources, high-quality curriculum, and the opportunity to enhance my coding skills. The knowledge and experience gained from **[freeCodeCamp](https://www.freecodecamp.org/learn)** have significantly contributed to creating these projects and developing my abilities.
