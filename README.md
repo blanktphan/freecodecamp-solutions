@@ -1,6 +1,6 @@
 # 📚 freeCodeCamp Soulutions
 
-![freeCodeCamp logo](./image/freecodecamp-logo.png)
+[![freeCodeCamp logo](./image/freecodecamp-logo.png)](https://www.freecodecamp.org/learn)
 
 ## 📗 **Introduction**
 
