@@ -2,6 +2,12 @@
 
 [![freeCodeCamp logo](./image/freecodecamp-logo.png)](https://www.freecodecamp.org/learn)
 
+<section align="center">
+    <span>
+        <img alt="JavsScript Badge" src="https://img.shields.io/badge/javascript-transparent?style=for-the-badge&logo=javascript&logoColor=000&color=F0DB4F">
+    </span>
+</section>
+
 ## 📋 Introduction
 
 This repository is my personal space for storing and collecting various projects that I've practiced and built while learning through the [freeCodeCamp](https://www.freecodecamp.org/learn) platform. Its primary goal is to track my development, showcase my skills, and share my unique problem-solving approaches. Please note, this repository does NOT contain all content from [freeCodeCamp](https://www.freecodecamp.org/learn).
